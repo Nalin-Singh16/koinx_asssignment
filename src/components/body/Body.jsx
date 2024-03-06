@@ -1,8 +1,9 @@
-function Body() {
+import './Body.css'
 
+function Body() {
     return (
         <div>
-            Hello there from body
+            This is body
         </div>
     )
 }
